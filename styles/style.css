@@ -227,8 +227,20 @@ border-radius: 4px;
     width: 71%;
     max-width: 1140px;
     margin: 0 auto;
-    background-color: rgba(247, 246, 242, 1);
+    background-color: #315382;
 display: flex;
+justify-content: space-between;
  padding: 120px;
+ text-align: justify;
+ align-items: center;
   }
-
+  .awesome{
+    display: flex;
+    gap: 10px;
+  }
+ 
+#social{
+  margin-bottom: 15px;
+  line-height: 28px;
+  font-size: 20px;
+}
